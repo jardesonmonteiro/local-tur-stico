@@ -1,0 +1,131 @@
+:root {
+    font-family: "Open Sans", sans-serif;
+}
+
+* {
+    color: #333333;
+}
+
+body{
+    background-color: #F5F4F0;
+}
+div {
+    box-sizing: border-box;
+    width: 1120px;
+    margin: 88px auto 65px auto;
+}
+
+#h6-01 {
+    color: #E1624F;
+    font-size: 16px;
+    margin: 0px;
+}
+
+#h6-02 {
+    color: #E1624F;
+    font-size: 16px;
+    margin: 0px 0px 2px;
+}
+
+h1 {
+    color: #1B1B1B;
+    font-size: 36px;
+    margin: 8px 0px 0px;
+}
+
+#h1-02 {
+    font-size: 32px;
+    margin: 0px 0px 8px;
+}
+
+#prim-img {
+    border-radius: 28px;
+    margin: 40px 0px 24px;
+}
+
+#p01 {
+    font-style: italic;
+    text-align: center;
+    margin: 0px 0px 40px;
+}
+
+#p02 {
+    margin: 0px 0px 64px;
+}
+
+#sec-img {
+    border-radius: 28px;
+    margin: 0px 0px 20px;
+}
+
+#h2-01 {
+    margin: 0px 0px 4px;
+    font-size: 28px;
+}
+
+#hr01 {
+    margin: 0px 0px 64px;
+    border-color: #D9D9D9;
+}
+
+#história {
+    color: #0C51A7;
+    font-weight: bold;
+}
+
+#ter-img {
+    border-radius: 28px;
+    margin: 48px 0px 20px;
+}
+
+#h2-02 {
+    margin: 0px 0px 4px;
+    font-size: 28px;
+}
+
+#qua-img {
+    border-radius: 28px;
+    margin: 48px 0px 20px;
+}
+
+#h2-03 {
+    margin: 0px 0px 4px;
+}
+
+#casais {
+    color: #591B98;
+    font-weight: bold;
+}
+
+#famílias {
+    color: #E5245E;
+    font-weight: bold;
+}
+
+#orçamento {
+    color: #E95E10;
+    font-weight: bold;
+}
+
+#as-melhores-coisas {
+    text-align: center;
+}
+
+#sec-divisor {
+    margin: 40px 0px 40px;
+    border-color: #D9D9D9;
+}
+#bom-para1 {
+    font-weight: bold;
+}
+#bom-para2 {
+    font-weight: bold;
+}
+#bom-para3 {
+    font-weight: bold;
+}
+
+footer {
+    margin-bottom: 48px;
+    text-align: center;
+}
